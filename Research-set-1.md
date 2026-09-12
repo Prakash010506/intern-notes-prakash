@@ -60,8 +60,7 @@ Synchronous communication means the application waits for a response before cont
 
 Asynchronous communication means the application can continue doing other work while waiting for a response.
 
-Example
-
+Example:
 Synchronous:
 Send request → Wait → Receive response
 
