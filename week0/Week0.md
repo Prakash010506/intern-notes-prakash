@@ -16,7 +16,7 @@ Command: java -version
 
 Output: java version "21.0.12" 2026-07-21 LTS
 Java(TM) SE Runtime Environment (build 21.0.12+7-LTS-205)
-Java HotSpot(TM) 64-Bit Server VM (build 21.0.12+7-LTS-205, mixed mode, sharing)
+
 
 ## Python
 
